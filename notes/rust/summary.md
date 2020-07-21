@@ -1,5 +1,10 @@
 # The Summary Of Rust Programming Language
-![Rust programming language logo](../../assets/img/rust.svg =250x)
+<img 
+  src="../../assets/img/rust.svg" 
+  alt="Rust logo" 
+  width="250" 
+  style="display: block; margin-left: auto; margin-right: auto;"
+/>
 
 [Rust](https://www.rust-lang.org/) adalah bahasa pemrograman yang dikembangkan 
 oleh Mozilla Research dan didukung komunitas open source yang besar. Dikembangkan
